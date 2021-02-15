@@ -1,0 +1,25 @@
+body{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+
+}
+
+submit{
+  margin-right: 45%;
+  color: blue;
+  background-color: blue;
+}
+textarea{
+  background-color: white;
+
+  color: black;
+  width: 40%;
+  height: 300px;
+  margin-top: 2%;
+  margin-left: 0,5%;
+}
